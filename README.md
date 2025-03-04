@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://i.postimg.cc/tJBgsfKw/gifs-for-github.gif" alt="gifs-for-github" width="1200" height="200">
+  <img src="https://i.postimg.cc/tJBgsfKw/gifs-for-github.gif" alt="gifs-for-github" width="1200" height="90">
 
 </p>
 
