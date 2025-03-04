@@ -8,10 +8,15 @@
 
 # 💫 About Me:
 🔭 **Currently:** Building Progressive Web Apps & Micro-frontends.  
+
 👯 **Collaborate on:** Open Source Projects & Scalable Web Apps.  
-🤝 **Need help with:** Performance optimization, robust testing, and accessibility best practices.  
+
+🤝 **Need help with:** Performance optimization, robust testing, and accessibility best practices. 
+
 🌱 **Learning:** Advanced state management, WebAssembly, an AI-driven UI development  
+
 💬 **Ask me about:** Responsive design, accessibility, & modern web trends.  
+
 🚀 **Future Goals:** Mastering Web3, Blockchain, and AI-enhanced user experiences.  
 
 ---
