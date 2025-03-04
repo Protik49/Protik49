@@ -1,3 +1,11 @@
+
+<p align="center">
+
+  <img src="https://i.postimg.cc/tJBgsfKw/gifs-for-github.gif" alt="gifs-for-github" width="1200" height="200">
+
+</p>
+
+
 # 💫 About Me:
 🔭 **Currently:** Building Progressive Web Apps & Micro-frontends.  
 👯 **Collaborate on:** Open Source Projects & Scalable Web Apps.  
