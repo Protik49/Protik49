@@ -19,14 +19,14 @@
 
 🚀 **Future Goals:** Mastering Web3, Blockchain, and AI-enhanced user experiences.  
 
----
+
 
 ## 🌐 Connect with Me:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/protik49) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/40643465) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:protikprotik49@gmail.com) 
 
----
+
 
 # 💻 Tech Stack:
 ### **Languages & Frameworks:**
@@ -70,12 +70,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Protik49&theme=dark&hide_border=false)  
 
 
----
+
 
 ## 🏆 GitHub Achievements:
 ![](https://github-profile-trophy.vercel.app/?username=Protik49&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
