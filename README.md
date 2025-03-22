@@ -14,6 +14,8 @@
 
 ℹ️ **Need help with:** Emerging Web Trends. 
 
+🛠️ **Tech Stack:** HTML, CSS, Tailwind, JavaScript, React, Netlify, Figma.  
+
 
 
 
