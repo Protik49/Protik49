@@ -14,9 +14,13 @@
 
 ℹ️ **Need help with:** Emerging Web Trends. 
 
-🛠️ **Tech Stack:**  JavaScript, React, TypeScript, Tailwind, Firebase, Netlify, Figma.  
+ 
 
 
+
+
+## 🛠️ My Stacks:
+[![My Skills](https://skillicons.dev/icons?i=js,html,tailwind,react,devto,figma,firebase,vercel,vscode,wordpress,git,mongodb,netlify,npm)](https://skillicons.dev)
 
 
 ## 🌐 Connect with Me:
