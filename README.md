@@ -22,6 +22,10 @@
 ## 🛠️ My Stacks:
 [![My Skills](https://skillicons.dev/icons?i=js,html,tailwind,react,devto,figma,firebase,vercel,vscode,wordpress,git,mongodb,netlify,npm)](https://skillicons.dev)
 
+## 🏆 Achievements:
+🏅 Won the **Runner H "AI Agent Prompting" Challenge**.  
+🔗 [This AI Prompt Finds Your Team’s Matches and Plans the Whole Trip for You](https://dev.to/protik_49/this-ai-prompt-finds-your-teams-matches-and-plans-the-whole-trip-for-you-2cg5)
+
 
 ## 🌐 Connect with Me:
 
