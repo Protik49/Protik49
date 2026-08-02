@@ -23,12 +23,26 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,tailwind,react,devto,figma,firebase,vercel,vscode,wordpress,git,mongodb,netlify,npm)](https://skillicons.dev)
 
 
-## 🌍 Current Projects:
+## 🌍 Current Projects
 
-- 🔗 [Turk Lamps](https://turklamps.com)
-- 🔗 [Solfege Books](https://solfegebooks.com)
-- 🔗 [Transliteration Live](https://transliteration.live)
-- 🔗 [Pick Gluten Free](https://pickglutenfree.com)
+### 🧠 Product Tools
+
+- **[Pulseboard](https://pulseboard.protikprotik49.workers.dev/)** — Product feedback intelligence platform that transforms GitHub issues and app reviews into recurring themes, ranked opportunities, and executive briefs.
+
+- **[LaunchReady](https://launchready.protikprotik49.workers.dev/)** — AI launch readiness platform that converts pull requests, tickets, changelogs, and sprint updates into stakeholder briefs, risk signals, and launch checklists.
+
+ - **[CounterPoint](https://counterpoint.protikprotik49.workers.dev/)** — Product proposal stress tester that uncovers weak assumptions, simulates stakeholder questions, and helps teams strengthen roadmap pitches.
+
+- **[Transliteration Live](https://transliteration.live)** — Privacy-focused phonetic typing tool for writing in 27 languages directly from a standard English keyboard.
+
+### 📚 Content and Discovery Platforms
+
+- **[Pick Gluten Free](https://pickglutenfree.com)** — Research-based gluten-free food guides, product checks, recipes, and ingredient-safety resources.
+
+- **[Solfege Books](https://solfegebooks.com)** — Curated solfège books and learning resources for music theory, ear training, pitch development, and sight-reading.
+
+- **[Turk Lamps](https://turklamps.com)** — Reviews and buying guides for handcrafted Turkish mosaic lamps and decorative lighting.
+
 
 
 
